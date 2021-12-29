@@ -1,0 +1,31 @@
+.message {
+    position:absolute;
+    bottom: 2%;
+    right: 2%;
+    width: 300px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.message p {
+    margin: 0;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.form-select{
+    margin-left: 15px;
+    width: 80px;
+}
+
+.inputItem {
+ display: flex;
+ justify-content: space-between;   
+}
